@@ -1,5 +1,4 @@
 #bonus challenge
-name = input()
-print(a)
+print(name)
 
 print(Bissengali)
