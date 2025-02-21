@@ -9,3 +9,4 @@ else:
 print(name)
 
 print("Bissengali")
+print("Galymzhan")
